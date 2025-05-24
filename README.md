@@ -4,6 +4,7 @@ ISPs have policies in place that dictate what can and cannot be performed over t
  * Damage the network
  * Interfere with other users’ access
  * Facilitate malicious actions
+
 Scanning other networks through your ISP without explicit consent usually falls under this umbrella of prohibited actions and can lead to account suspension or termination.
 Unauthorized port scanning can lead to legal issues, as it may violate laws regarding access to computer systems in many jurisdictions.
 
