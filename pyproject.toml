@@ -1,10 +1,10 @@
-[build-system]
-build-backend = "setuptools.build_meta"
-requires = ["setuptools>=61.0.0", "wheel"]
+     [build-system]
+     build-backend = "setuptools.build_meta"
+     requires = ["setuptools>=61.0.0", "wheel"]
      
-[project]
+     [project]
 name = "python-nmap"
-version = "2025.05.25"
+version = "2025.05.26"
 dependencies = [
   "python-nmap>0.7.1",
 ]
@@ -20,4 +20,4 @@ classifiers = [
 ]
 
 [project.urls]
-Repository = "https://github.com/prepay7776/python-nmap.git"
+Repository = "https://github.com/prepay7776/python-nmap"
