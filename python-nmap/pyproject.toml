@@ -4,7 +4,7 @@
      
      [project]
 name = "python-nmap"
-version = "2025.05.25"
+version = "2025.05.26"
 dependencies = [
   "python-nmap>0.7.1",
 ]
