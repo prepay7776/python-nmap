@@ -12,7 +12,7 @@ requires-python = ">=3.6"
 
 description = "A port scanning tool for educational purposes."
 readme = "README.md"
-license = "NONE"
+license = "MIT"
 keywords = ["nmap", "python-nmap"]
 classifiers = [
   "Development Status :: 1 - Planning",
